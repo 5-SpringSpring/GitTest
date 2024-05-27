@@ -8,4 +8,5 @@ class PetPartnerApplication
 
 fun main(args: Array<String>) {
     runApplication<PetPartnerApplication>(*args)
+    repeat(10){ println("무야호") }
 }
